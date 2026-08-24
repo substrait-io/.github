@@ -10,7 +10,7 @@ Reviewers are empowered to ask for simplifications in text communication wheneve
 ## Change Summary [REQUIRED]
 This section aims to provide your reviewer (and other future readers) with a high-level description of your change.
 
-The PR title and Change Summary section should combine into a valid Conventional Commit style message. It will become the commit message for your changes, as contributors use this section when squash merging your PRs (potentially with edits).
+The PR title and Change Summary section should combine into a valid [Conventional Commit](https://www.conventionalcommits.org/) style message. It will become the commit message for your changes, as contributors use this section when squash merging your PRs (potentially with edits).
 
 Use BREAKING CHANGE footers to communicate breaking changes.
 
